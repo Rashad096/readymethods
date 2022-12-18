@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\bin\Debug\netcoreapp3.1\HomeworkMonday.exe
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\bin\Debug\netcoreapp3.1\HomeworkMonday.deps.json
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\bin\Debug\netcoreapp3.1\HomeworkMonday.runtimeconfig.json
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\bin\Debug\netcoreapp3.1\HomeworkMonday.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\bin\Debug\netcoreapp3.1\HomeworkMonday.dll
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\bin\Debug\netcoreapp3.1\HomeworkMonday.pdb
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.csproj.AssemblyReference.cache
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.AssemblyInfo.cs
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.dll
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.pdb
+C:\Users\abbas\source\repos\HomeworkMonday\HomeworkMonday\obj\Debug\netcoreapp3.1\HomeworkMonday.genruntimeconfig.cache
